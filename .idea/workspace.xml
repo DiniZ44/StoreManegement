@@ -10,11 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21959b43-1283-4247-a395-06c8f4a8b898" name="Default Changelist" comment="database">
+    <list default="true" id="21959b43-1283-4247-a395-06c8f4a8b898" name="Default Changelist" comment="update dependences">
+      <change afterPath="$PROJECT_DIR$/backend/api/validation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +66,7 @@
       <updated>1604166241611</updated>
       <workItem from="1604166243041" duration="731000" />
       <workItem from="1605881443066" duration="5169000" />
-      <workItem from="1605889125099" duration="58000" />
+      <workItem from="1605889125099" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1604166368867</created>
@@ -93,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605886616519</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update dependences">
+      <created>1605889245199</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605889245199</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,28 +126,29 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="backend -- consign" />
     <MESSAGE value="database" />
-    <option name="LAST_COMMIT_MESSAGE" value="database" />
+    <MESSAGE value="update dependences" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dependences" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="284" key="GridCell.Tab.0.bottom" timestamp="1605886663954">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1605890587010">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1605886663954" />
-    <state width="914" height="284" key="GridCell.Tab.0.center" timestamp="1605886663954">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1605890587010" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1605890587010">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1605886663954" />
-    <state width="914" height="284" key="GridCell.Tab.0.left" timestamp="1605886663954">
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1605890587010" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1605890587010">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1605886663954" />
-    <state width="914" height="284" key="GridCell.Tab.0.right" timestamp="1605886663954">
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1605890587010" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1605890587010">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1605886663954" />
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1605886635038">
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1605890587010" />
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1605889255497">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1605886635038" />
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1605889255497" />
   </component>
 </project>
